@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0647-palindromic-substrings) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 ## Math
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1267-count-servers-that-communicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0647-palindromic-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
