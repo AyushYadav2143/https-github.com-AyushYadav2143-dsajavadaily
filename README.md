@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0386-lexicographical-numbers) |
 | [0872-leaf-similar-trees](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0872-leaf-similar-trees) |
 | [1267-count-servers-that-communicate](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
