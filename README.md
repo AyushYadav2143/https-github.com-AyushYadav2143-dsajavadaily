@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0647-palindromic-substrings) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0647-palindromic-substrings) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Counting Sort
