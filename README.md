@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1267-count-servers-that-communicate) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3527-find-the-most-common-response](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0146-lru-cache) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0893-groups-of-special-equivalent-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3527-find-the-most-common-response](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3527-find-the-most-common-response) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3591-check-if-any-element-has-prime-frequency) |
