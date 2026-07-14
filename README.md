@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1672-richest-customer-wealth) |
 | [1834-single-threaded-cpu](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1834-single-threaded-cpu) |
 | [1936-add-minimum-number-of-rungs](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1936-add-minimum-number-of-rungs) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3527-find-the-most-common-response](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3527-find-the-most-common-response) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1834-single-threaded-cpu](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1834-single-threaded-cpu) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1927-sum-game](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1927-sum-game) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -191,9 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
 | ------- |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Geometry
+|  |
+| ------- |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
