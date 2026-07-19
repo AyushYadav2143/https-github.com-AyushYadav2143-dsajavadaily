@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1834-single-threaded-cpu) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1936-add-minimum-number-of-rungs](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1936-add-minimum-number-of-rungs) |
+| [1943-describe-the-painting](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1943-describe-the-painting) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1834-single-threaded-cpu](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1834-single-threaded-cpu) |
+| [1943-describe-the-painting](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1943-describe-the-painting) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1943-describe-the-painting](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1943-describe-the-painting) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## String
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0409-longest-palindrome) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1943-describe-the-painting](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/1943-describe-the-painting) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/AyushYadav2143/https-github.com-AyushYadav2143-dsajavadaily/tree/master/3076-shortest-uncommon-substring-in-an-array) |
